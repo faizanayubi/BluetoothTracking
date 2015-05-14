@@ -39,7 +39,9 @@ Step 5 – Adding the Code
 
 Step 6 – Running the Program
 - Then open up terminal cd into your proper directory and run it as sudo
-	sudo python gamovement.py
+```
+sudo python movement.py
+```
 
 Step 7 – Check Real Time Reports in Global Server
 - Now look in the Real Time events to see the actions come through.
