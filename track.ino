@@ -1,7 +1,3 @@
-/* 
-Simple Arduino IR Sensor Data Logger
-Written by Faizan Ayubi on 09/05/2015
-*/
 int sensor = 8;
 void setup() {
   pinMode(sensor, INPUT);
